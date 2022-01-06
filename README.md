@@ -4,7 +4,7 @@
 #### I'm a researcher in Demand response / Flexibility
 | Energy Markets | Energy forecasting | Power Systems Modelling | Operations Research |
 
-- Positioned in the intersection of Electrical Engineering, Energy forecasting, Operations Research, and Energy Informatics. 
+- Positioned in the intersection of Power Systems operation, Energy forecasting, Operations Research, and Energy Informatics. 
 
 - Interested in optimizing the operation of individual energy resources to contribute to a more decarbonized and flexible power system. 
 
