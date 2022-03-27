@@ -1,15 +1,18 @@
 
 ## Hi there, I'm Aleksei Mashlakov
 
+---
+
 #### I'm a researcher in Demand response / Flexibility :man_technologist: :electric_plug:
-| Energy Markets | Energy forecasting | Power Systems Modelling | Operations Research | Energy Informatics
+| Energy Markets | Energy forecasting | Power Systems Modelling | Operations Research | Energy Informatics |
 
 :small_orange_diamond: Positioned in the intersection of Power Systems operation, Energy forecasting, Operations Research, and Energy Informatics. 
 
-:small_orange_diamond: Interested in optimizing the operation of individual energy resources to contribute to a more decarbonized and flexible :battery: power system. 
+:small_orange_diamond: Interested in optimizing the operation of individual energy resources to contribute to a more decarbonized :shamrock: and flexible :battery: power system. 
 
 #### Focused on
-======
+
+---
 
  :small_orange_diamond: Energy and ancillary service markets 
  :small_orange_diamond: Power systems modeling and control
@@ -18,7 +21,8 @@
  :small_orange_diamond: Energy Informatics
 
 #### Connect with me :globe_with_meridians:
-======
+
+---
 
 [Website][website] | [LinkedIn][linkedin] | [Researchgate][researchgate]
 
