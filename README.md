@@ -1,9 +1,9 @@
 
-## Hi there, I'm Aleksei Mashlakov, a researcher in Demand response / Flexibility :man_technologist: :electric_plug:
+## Hi there, I'm Aleksei Mashlakov!
 
 ---
 
-#### I'm 
+#### I'm a researcher in Demand response / Flexibility :man_technologist: :electric_plug:
 
 :small_orange_diamond: Positioned in the intersection of Power Systems operations, Energy Markets, Energy forecasting, Operations Research, and Energy Informatics. 
 
