@@ -1,8 +1,8 @@
 
 ## Hi there, I'm Aleksei Mashlakov
 
-#### I'm a researcher in Demand response / Flexibility
-| Energy Markets | Energy forecasting | Power Systems Modelling | Operations Research |
+#### I'm a researcher in Demand response / Flexibility :man_technologist:
+| Energy Markets | Energy forecasting | Power Systems Modelling | Operations Research | Energy Informatics
 
 - Positioned in the intersection of Power Systems operation, Energy forecasting, Operations Research, and Energy Informatics. 
 
@@ -15,8 +15,9 @@
  - Power systems modeling and control
  - Data-driven probabilistic energy forecasting
  - Optimization under uncertainty
+ - Energy Informatics
 
-#### Connect with me 
+#### Connect with me :globe_with_meridians:
 ======
 
 [Website][website] | [LinkedIn][linkedin] | [Researchgate][researchgate]
