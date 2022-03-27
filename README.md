@@ -9,9 +9,9 @@
 
 :small_orange_diamond: Interested in optimizing the operation of individual energy resources to contribute to a more decarbonized :shamrock: and flexible :battery: power system. 
 
-#### Focused on :gem:
-
 ---
+
+#### Focused on: 
 
  :small_orange_diamond: Energy and ancillary service markets \
  :small_orange_diamond: Power systems modeling and control \
@@ -19,9 +19,9 @@
  :small_orange_diamond: Optimization under uncertainty \
  :small_orange_diamond: Energy Informatics 
 
-#### Connect with me :globe_with_meridians:
-
 ---
+
+#### Connect with me :globe_with_meridians:
 
 [Website][website] | [LinkedIn][linkedin] | [Researchgate][researchgate]
 
