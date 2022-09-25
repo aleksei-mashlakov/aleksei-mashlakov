@@ -19,7 +19,7 @@
 
 #### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-mashlakov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksei-mashlakov&layout=compact&hide=java,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
